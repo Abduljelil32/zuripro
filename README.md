@@ -1,4 +1,4 @@
-# zuripro
+# zuriproject Booking flight API
 
 Task title: Booking Flight API
 Task Objective: Create a rest API that has the following features
